@@ -4,7 +4,7 @@
   "description": "A small Node.js app for Git workflow assessment.",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "nodemon app.js"
   },
   "dependencies": {
     "cors": "^2.8.6",
